@@ -1,5 +1,19 @@
+<!-- Source: https://github.com/Exxonnnnnn/template -->
+
+<!-- Logo (Remove comment if needed) -->
+<!--
+<h1 align="center">
+    <a href="https://discord.gg/jUNbV5u" target="_blank">
+        <img src="" alt="Logo">
+    </a>
+</h1>
+-->
+
 <!-- Title -->
-<h2 align="center"> This is a template for my GitHub repositories</h2>
+<div align="center">
+    <h3>Template</h3>
+    <h4>A repository to hold my templates</h4>
+</div>
 
 <br>
 
@@ -11,8 +25,11 @@
     <a href="https://patreon.com/_CreativeDevelopments" target="_blank">
         <img src="https://img.shields.io/badge/Patreon-__CreativeDevelopments-blue.svg?logo=patreon" alt="Patreon">
     </a>
-    <a href="https://github.com/Exxonnnnnn/template" target="_blank">
+    <a href="https://github.com/Exxonnnnnn/template/blob/main/LICENSE" target="_blank">
         <img src="https://img.shields.io/badge/license-Apache%202-blue.svg?logo=apache" alt="License">
+    </a>
+    <a href="https://github.com/Exxonnnnnn/template" target="_blank">
+        <img src="https://img.shields.io/github/stars/Exxonnnnnn/template?style=social&logo=github" alt="Stars">
     </a>
 </p>
 
