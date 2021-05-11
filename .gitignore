@@ -1,0 +1,8 @@
+# Source: https://github.com/Exxonnnnnn/template/blob/main/.gitignore
+
+# Node
+node_modules/
+
+# Other
+.env
+
