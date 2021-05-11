@@ -1,4 +1,4 @@
-<!-- Source: https://github.com/Exxonnnnnn/template -->
+<!-- Source: https://github.com/Exxonnnnnn/template/blob/npm/README.md -->
 
 <!-- Logo (Remove comment if needed) -->
 <!--
@@ -11,8 +11,8 @@
 
 <!-- Title -->
 <div align="center">
-    <h3>Template</h3>
-    <h4>A repository to hold my templates</h4>
+    <h3>NPM Branch</h3>
+    <h4>A branch for a template repository for NPM Packages</h4>
 </div>
 
 <br>
@@ -21,6 +21,15 @@
 <p align="center">
     <a href="https://discord.gg/jUNbV5u" target="_blank">
         <img src="https://img.shields.io/discord/769710808435261490.svg?logo=discord" alt="Discord Server">
+    </a>
+    <a href="https://www.npmjs.com/package/cdcommands" target="_blank">
+        <img src="https://img.shields.io/npm/dt/cdcommands.svg?logo=npm" alt="Downloads">
+    </a>
+    <a href="https://www.npmjs.com/package/cdcommands" target="_blank">
+        <img src="https://img.shields.io/npm/dm/cdcommands.svg?logo=npm" alt="Monthly Downloads">
+    </a>
+    <a href="https://www.npmjs.com/package/cdcommands" target="_blank">
+        <img src="https://img.shields.io/npm/v/cdcommands.svg?style=color=blue&logo=npm" alt="Version">
     </a>
     <a href="https://patreon.com/_CreativeDevelopments" target="_blank">
         <img src="https://img.shields.io/badge/Patreon-__CreativeDevelopments-blue.svg?logo=patreon" alt="Patreon">
@@ -37,9 +46,9 @@
 
 <!-- Content -->
 
-## This is a repository
+## This is the NPM Branch
 
-This repository is a template for my other GitHub repositories
+A branch for a template repository for NPM Packages
 
 <!-- Contributing -->
 

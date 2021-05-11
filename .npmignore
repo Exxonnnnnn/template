@@ -1,0 +1,11 @@
+# Directories
+.github/
+images/
+test/
+tests/
+
+# Files
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+TODO.md
+UPDATES.md
