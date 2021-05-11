@@ -1,8 +1,10 @@
-# Source: https://github.com/Exxonnnnnn/template/blob/main/.gitignore
+# Source: https://github.com/Exxonnnnnn/template/blob/npm/.gitignore
 
 # Node
 node_modules/
 
 # Other
+test/
+tests/
 .env
 
