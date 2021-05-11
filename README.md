@@ -1,4 +1,4 @@
-<!-- Source: https://github.com/Exxonnnnnn/template -->
+<!-- Source: https://github.com/Exxonnnnnn/template/blob/main/README.md -->
 
 <!-- Logo (Remove comment if needed) -->
 <!--
